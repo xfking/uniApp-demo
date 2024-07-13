@@ -1,0 +1,38 @@
+ 证书密码：123456
+
+密钥库类型: jks
+密钥库提供方: SUN
+
+您的密钥库包含 1 个条目
+
+别名: driverside
+zheng创建日期: 2021-6-23
+条目类型: PrivateKeyEntry
+证书链长度: 1
+证书[1]:
+所有者: CN=peng, OU=weimob, O=weimob, L=chongqing, ST=chongqing, C=CH
+发布者: CN=peng, OU=weimob, O=weimob, L=chongqing, ST=chongqing, C=CH
+序列号: 439e829a
+有效期为 Wed Jun 23 11:27:41 CST 2021 至 Fri May 30 11:27:41 CST 2121
+证书指纹:
+         MD5:  5C:E7:E8:6B:7D:9D:F8:65:8F:47:13:98:43:78:5B:A0
+         SHA1: 83:01:CF:41:87:3A:B5:88:07:42:34:7C:16:62:71:53:F5:E6:66:85
+         SHA256: E6:75:EE:69:E2:7F:4A:EF:7A:9E:CE:9B:E3:C7:CD:BD:DD:FB:DD:86:E4:DF:92:32:0A:D3:E0:AF:69:96:D8:81
+签名算法名称: SHA256withRSA
+主体公共密钥算法: 2048 位 RSA 密钥
+版本: 3
+
+扩展:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D1 F7 51 7B 92 E2 ED 79   09 04 65 1F 5F 53 92 7B  ..Q....y..e._S..
+0010: F2 8C C2 C6                                        ....
+]
+]
+
+
+
+*******************************************
+*******************************************

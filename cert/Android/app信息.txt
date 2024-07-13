@@ -1,0 +1,35 @@
+包名：com.peiniyouwo.app
+
+APP Key ： 1d3cb897d1791e408655006b9b66043a
+
+签名密码：7CMD5lo9
+
+
+密钥库类型： JKS
+密钥库提供方： SUN
+您的密钥库包含 1 个条目
+别名： __uni__7d85939
+创建日期： Oct 12, 2022
+条目类型： PrivateKeyEntry
+证书链长度： 1
+证书[1]：
+所有者： CN=wHCXz6m1%2BhsWalP%2FZh8y2PM1pq87qsbslzABWX9HrN3WEPb8e9N6ZQ%2BgHPSskLB3XcSK4y3c67mrQ6AAXoWjDQ%3D%3D, OU=Android, O=Android, L=, ST=, C=CN
+发布者： CN=wHCXz6m1%2BhsWalP%2FZh8y2PM1pq87qsbslzABWX9HrN3WEPb8e9N6ZQ%2BgHPSskLB3XcSK4y3c67mrQ6AAXoWjDQ%3D%3D, OU=Android, O=Android, L=, ST=, C=CN
+序列号： 2284a253
+生效时间： Wed Oct 12 14:00:12 CST 2022 失效时间： Fri Sep 18 14:00:12 CST 2122
+证书指纹：
+MD5: 1D:3C:B8:97:D1:79:1E:40:86:55:00:6B:9B:66:04:3A
+SHA1: 44:B3:02:D6:0B:FB:37:1B:1F:14:5A:7C:7C:8D:A3:78:88:B4:D1:F4
+SHA256: 66:AA:E2:4F:1D:DF:14:38:A2:31:E9:22:AD:23:D5:06:65:9F:ED:C2:BB:01:5A:5D:02:89:1F:8D:A9:9E:D7:D3
+签名算法名称： SHA256withRSA
+版本： 3
+扩展：
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 8D 41 9F A3 13 39 4E 9B CE 8D 2E A5 B4 F0 71 B1 .A...9N.......q.
+0010: D0 0B C5 F7 ....
+]
+]
+*******************************************
+*******************************************

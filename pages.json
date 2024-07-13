@@ -1,0 +1,306 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/about/index",
+      "style": {
+        "navigationBarTitleText": "关于我们"
+      }
+    },
+    {
+      "path": "pages/promotion/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/pick/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/center/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/index/randomOrder",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/local/integralTransfer",
+      "style": {
+        "navigationBarTitleText": "积分转账",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/billTransfer",
+      "style": {
+        "navigationBarTitleText": "余额转账",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/clerkApplication",
+      "style": {
+        "navigationBarTitleText": "申请店员",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/wallet",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/local/payment",
+      "style": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/paymentCopy",
+      "style": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/details",
+      "style": {
+        "navigationBarTitleText": "详情",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/payment",
+      "style": {
+        "navigationBarTitleText": "在线支付",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/feedback",
+      "style": {
+        "navigationBarTitleText": "意见反馈",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/aboutUs",
+      "style": {
+        "navigationBarTitleText": "联系我们",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/recharge",
+      "style": {
+        "navigationBarTitleText": "充值",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/order",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/local/login",
+      "style": {
+        "navigationBarTitleText": "登录",
+        "enablePullDownRefresh": false,
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/local/register",
+      "style": {
+        "navigationBarTitleText": "注册",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/forgot",
+      "style": {
+        "navigationBarTitleText": "忘记密码",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/customerService",
+      "style": {
+        "navigationBarTitleText": "客服",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/orderDetails",
+      "style": {
+        "navigationBarTitleText": "订单详情",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/bill",
+      "style": {
+        "navigationBarTitleText": "余额",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/transfer",
+      "style": {
+        "navigationBarTitleText": "转账",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/integral",
+      "style": {
+        "navigationBarTitleText": "积分",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/withdrawal",
+      "style": {
+        "navigationBarTitleText": "提现",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/team",
+      "style": {
+        "navigationBarTitleText": "我的团队",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/groupList",
+      "style": {
+        "navigationBarTitleText": "拼团列表",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/setting",
+      "style": {
+        "navigationBarTitleText": "设置",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/changePwd",
+      "style": {
+        "navigationBarTitleText": "修改登录密码",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/changePhone",
+      "style": {
+        "navigationBarTitleText": "更换手机号",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/bandPhone",
+      "style": {
+        "navigationBarTitleText": "绑定手机号",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/changePayment",
+      "style": {
+        "navigationBarTitleText": "修改支付密码",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/share",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/local/travelDetail",
+      "style": {
+        "navigationBarTitleText": "旅游详情",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/boutiqueDetails",
+      "style": {
+        "navigationBarTitleText": "商品详情",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/goodsPayment",
+      "style": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/repurchase",
+      "style": {
+        "navigationBarTitleText": "复购金额",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/local/contribution",
+      "style": {
+        "navigationBarTitleText": "贡献值",
+        "enablePullDownRefresh": false
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "服务广场",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "关于我们",
+        "pagePath": "pages/about/index"
+      },
+      {
+        "text": "开通推广",
+        "pagePath": "pages/promotion/index"
+      },
+      {
+        "text": "精挑细选",
+        "pagePath": "pages/pick/index"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/center/index"
+      }
+    ]
+  }
+}
